@@ -1,5 +1,7 @@
 # kubernetesの練習
 テストです
+// TODO
+さらにテストです
 
 ### chapter 4.2.2
 ```
